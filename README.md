@@ -18,5 +18,7 @@
 
 ![Mr.Programmer GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr4rogrammer&show_icons=true&theme=radical)
 
+[![wakatime](https://wakatime.com/badge/user/cb6cc6ee-1e79-4130-a12d-4103324ea69d.svg)](https://wakatime.com/@cb6cc6ee-1e79-4130-a12d-4103324ea69d)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mr4rogrammer&" alt="Mr4rogrammer" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mr4rogrammer&show_icons=true&locale=en&layout=compact" alt="Mr4rogrammer" /></p>
