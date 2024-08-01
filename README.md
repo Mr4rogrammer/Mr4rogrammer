@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Mr.Programmer</h1>
 <h3 align="center">Making World Powerfull</h3>
 
-- 👨‍💻 All of my projects are available at [https://mrprogrammer.info](https://mrprogrammer.info)
+- 👨‍💻 All of my projects are available at [https://mr4rogrammer.netlify.app](https://mr4rogrammer.netlify.app)
 
-- 📫 How to reach me **mrprogrammernoreply@gmail.com**
+- 📫 How to reach me **krishnakumar.e.11022002@gmail.com**
 
 - 📫 Do Support **https://pages.razorpay.com/mrprogrammer**
 
